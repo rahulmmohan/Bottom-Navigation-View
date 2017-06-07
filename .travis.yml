@@ -2,6 +2,8 @@ language: android
 script: ./gradlew check --stacktrace
 jdk: oraclejdk8
 android:
+  lintOptions :
+        -abortOnError false
   components:
     - tools
     - platform-tools
