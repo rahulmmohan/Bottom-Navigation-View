@@ -9,6 +9,7 @@ android:
     - android-24
     - extra-google-m2repository
     - extra-android-m2repository
+    - sys-img-armeabi-v7a-android-24
     # Uncomment the lines below if you want to
     # use the latest revision of Android SDK Tools
     # - tools
